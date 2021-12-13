@@ -1,4 +1,6 @@
-- 👋 Hi, Tushar here!
+<div align="center"><h1>Hi👋, Tushar here!</h1></div>
+
+
 - 🌱 Currently focusing on web development
 - 🦅 Believes: Work speaks louder than words
 - 📫 Contact: tusharsaini1301@gmail.com
