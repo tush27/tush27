@@ -2,8 +2,10 @@
 
 
 - 🌱 Currently focusing on web development
-- 🦅 Believes: Work speaks louder than words
-- 📫 Contact: tusharsaini1301@gmail.com
+- 🦅 Believes  : Work speaks louder than words
+- 📫 Contact   : tusharsaini1301@gmail.com
+- 📂 Portfolio : <a href="https://tush27.github.io/portfolio/" target="_blank"> Find here</a>
+- ⛳ Projects  : <a href="https://tush27.github.io/all-projects/" target="_blank"> Find here</a>
 <br>
 <br>
 
